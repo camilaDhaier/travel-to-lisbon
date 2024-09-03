@@ -1,6 +1,6 @@
 body {
     font-family: "Poppins", sans-serif;
-    background: #272044;
+    background: cornsilk;
 }
 
 .container {
@@ -115,8 +115,7 @@ main p {
 
 footer {
     color: white;
-    background-image: linear-gradient(rgba(39, 32, 68, 0.9),
-            rgba(39, 32, 68, 0.9)),
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
         url("../images/footer-lisbon.png");
 
     background-repeat: no-repeat;
